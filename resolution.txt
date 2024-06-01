@@ -1,2 +1,4 @@
 My resolution
 Learn PHP
+  -Learn OOP
+  -Learn Composer
